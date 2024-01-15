@@ -4,25 +4,25 @@ function LoginPage() {
 
     return(
         <LoginPage>
-            <div class="container">
-                <div class="wrapper">
-                    <div class="top">
-                        <div class="left">
-                            <div class="leftTop">
+            <div classsName="container">
+                <div classsName="wrapper">
+                    <div classsName="top">
+                        <div classsName="left">
+                            <div classsName="leftTop">
 
                             </div>
-                            <div class="leftBottom">
+                            <div classsName="leftBottom">
 
                             </div>
                         </div>
-                        <div class="center">
+                        <div classsName="center">
 
                         </div>
-                        <div class="right">
+                        <div classsName="right">
 
                         </div>
                     </div>
-                    <div class="bottom">
+                    <div classsName="bottom">
 
                     </div>
                 </div>
