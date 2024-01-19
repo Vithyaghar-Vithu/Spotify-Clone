@@ -1,0 +1,45 @@
+.left{
+    /* background-color: aqua; */
+    display: flex;
+    flex-direction: column;
+    min-width: 0vw;
+    max-width: 35vw;
+    width: 25vw;
+    color: rgba(255, 255, 255, 0.415); 
+}
+
+.leftTop{
+    background-color: #131314df;
+    /* background-color: rgb(9, 104, 221); */
+    border-radius: 9px;
+    margin: 4px;
+    height: 110px;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+    justify-items: center;
+    /* padding: 5px; */
+
+}
+
+.leftBottom{
+    /* background-color: rgb(9, 221, 108); */
+    background-color: #131314df;
+    border-radius: 9px;
+    margin: 4px;
+    height: 90vw;
+}
+
+.tabHeader{
+    transition-duration: 0.9s;
+}
+
+.tabHeader:hover{
+    background-color: #13131400;
+    color: white; 
+}
+
+.playlistDisplay{
+    display: flex;
+    flex-direction: column;
+}

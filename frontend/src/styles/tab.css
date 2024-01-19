@@ -1,0 +1,23 @@
+.tabButtons{
+    /* /* margin-top: 6px; */
+    margin-left: 3px; 
+    height: 50%;
+    width: 98%;
+    background-color: #13131400;
+    color: rgba(255, 255, 255, 0.415); 
+    /* justify-content: center; */
+    vertical-align: middle;
+    transition-duration: 0.8s;
+    display: flex;
+    flex-direction: row;
+}
+
+.tabButtons:hover{
+    background-color: #26262795;
+    color: white; 
+}
+
+
+/* .icon{
+    height: 25px;
+} */

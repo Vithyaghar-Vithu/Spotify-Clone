@@ -1,0 +1,14 @@
+.card{
+    transition-duration: 0.1s;
+    color: white; 
+    margin:5px;
+    border-radius: 5px;
+    padding: 5px;
+    height: 55px;
+    
+}
+
+.card:hover{
+    background-color: #29292bb8;
+    
+}

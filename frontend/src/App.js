@@ -1,6 +1,6 @@
 // import logo from './logo.svg'; 
 import './App.css';
-import LoginPage from './pages/userLogin';
+import MainPage from './pages/main';
 
 function App() {
   return (
@@ -21,7 +21,9 @@ function App() {
     //   </header>
     // </div>
 
-    <LoginPage/>
+    <div className="container">
+      <MainPage/>
+    </div>
   );
 }
 

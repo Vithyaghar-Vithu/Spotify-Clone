@@ -36,3 +36,13 @@
     transform: rotate(360deg);
   }
 }
+.container{
+  background-color: #000;
+  /* width: auto;
+  height: auto; */
+  padding: 2px;
+  max-width:100vw;
+  min-width: 50vw;
+  max-height:100vw;
+  min-width: 750px;
+}
